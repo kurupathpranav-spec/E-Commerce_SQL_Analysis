@@ -27,3 +27,6 @@ This project analyzes an e-commerce dataset using SQL to derive actionable busin
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL skills and the ability to translate raw data into meaningful business insights for decision-making.
+
+🔗 Author
+Pranav Kurupath 
